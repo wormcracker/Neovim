@@ -1,4 +1,4 @@
-# Basically replace of gui-codes .. 🚀 
+# Basically replace of gui-codes-editor .. 🚀 
 **IMPORTANT:** These are meant for inspiration. 
 <img align="center" alt="Bspwm" width="1000" src="https://raw.githubusercontent.com/wormcracker/Neovim/main/sample-01.png">
 <img align="center" alt="Bspwm" width="1000" src="https://raw.githubusercontent.com/wormcracker/Neovim/main/sample-02.png">
@@ -7,7 +7,7 @@ Alacritty as terminal.
 ALso use of tmux .
 
 ### Relevant Files
-- [.config/picom/picom.conf](.picom) - Picom Configuration to make blur and transculent.
+- [https://github.com/wormcracker/dotfiles/tree/main/.config/picom](.picom) - Picom Configuration to make blur and transculent.
 (.zshrc) - Zsh Shell Configuration
 
 ### Relevant Files
