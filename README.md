@@ -7,7 +7,7 @@ Alacritty as terminal.
 ALso use of tmux .
 
 ### Relevant Files
-- [https://github.com/wormcracker/dotfiles/tree/main/.config/picom](.picom) - Picom Configuration to make blur and transculent.
+- https://github.com/wormcracker/dotfiles/blob/main/.config/picom/picom.conf - Picom Configuration to make blur and transculent.
 (.zshrc) - Zsh Shell Configuration
 
 ### Relevant Files
