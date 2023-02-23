@@ -2,6 +2,7 @@
 **IMPORTANT:** These are meant for inspiration. 
 <img align="center" alt="Bspwm" width="1000" src="https://raw.githubusercontent.com/wormcracker/Neovim/main/sample-01.png">
 <img align="center" alt="Bspwm" width="1000" src="https://raw.githubusercontent.com/wormcracker/Neovim/main/sample-02.png">
+<img align="center" alt="Bspwm" width="1000" src="https://raw.githubusercontent.com/wormcracker/Neovim/main/sample-03.png">
 # Terminal 
 Alacritty as terminal.
 ALso use of tmux .
