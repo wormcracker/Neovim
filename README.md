@@ -1,7 +1,7 @@
-# Basically replace of vs-code
+# Basically replace of gui-codes .. 🚀 
 **IMPORTANT:** These are meant for inspiration. 
-<img align="center" alt="Bspwm" width="1000" src="https://github.com/wormcracker/dotfiles/blob/main/.config/bspwm/2023-02-06_20-07.png">
-
+<img align="center" alt="Bspwm" width="1000" src="https://raw.githubusercontent.com/wormcracker/Neovim/main/sample-01.png">
+<img align="center" alt="Bspwm" width="1000" src="https://raw.githubusercontent.com/wormcracker/Neovim/main/sample-02.png">
 # Terminal 
 Alacritty as terminal.
 ALso use of tmux .
